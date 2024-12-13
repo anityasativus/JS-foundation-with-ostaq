@@ -11,3 +11,4 @@ console.log(a.Name);
 console.log(a);
 console.log(b );
 //console.log(a.age);
+//console.log(a.age);
