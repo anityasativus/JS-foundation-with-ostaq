@@ -1,0 +1,25 @@
+// src/App.js
+
+import React, { useState } from 'react';
+
+function App() {
+    // Create a state variable to manage the visibility of the message
+    const [isMessageVisible, setIsMessageVisible] = useState(false);
+
+    // Function to handle button click
+    const toggleMessage = () => {
+        setIsMessageVisible(!isMessageVisible);
+    };
+
+    return (
+        <div style={{ padding: '40px', textAlign: 'center' }}>
+            <button onClick={toggleMessage}>
+                {isMessageVisible ? 'Hide Message' : 'Show Message'}
+            </button>
+            {/* Conditional rendering for the message */}
+            {isMessageVisible && <p style={{ marginTop: '20px', fontSize: '20px' }}>Hello, React!</p>}
+        </div>
+    );
+}
+
+export default App;
