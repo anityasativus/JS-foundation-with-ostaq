@@ -8,5 +8,5 @@ console.log(b);
 console.log(c);
 console.log(e);
 console.log(f);
-console.log(f);o
+console.log(f);
 console.log(f);
