@@ -9,7 +9,7 @@ console.log(c);
 console.log(e);
 console.log(f);
 console.log(f);
-console.log(f);
+console.log(f); //for data fectch 
 async function name(params) {
     //for data fectch 
 }
