@@ -11,7 +11,7 @@ console.log(f);
 console.log(f);
 console.log(f); //for data fectch 
 async function name(params) {
-    //for data fectch 
+    //for data fectc
 }
 async function name(params) {
     
