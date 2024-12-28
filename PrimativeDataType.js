@@ -13,3 +13,6 @@ console.log(f); //for data fectch
 async function name(params) {
     //for data fectch 
 }
+async function name(params) {
+    //for data fectch 
+}
