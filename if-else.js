@@ -14,7 +14,7 @@ else if (marks<94 && marks>=87 ) {
 }
 else if(marks<=85 && marks>=82 )
     {
-        console.log("c");
+        console.log("C");
     }
     else if(marks<=82 && marks>=78 )
         {
