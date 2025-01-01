@@ -24,3 +24,8 @@ else if(marks<=85 && marks>=82 )
             {
                 console.log("D");
             }
+        
+        else if(marks<=78 && marks>=75 )
+            {
+                console.log("D");
+            }
