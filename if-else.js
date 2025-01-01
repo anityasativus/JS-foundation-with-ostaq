@@ -27,5 +27,5 @@ else if(marks<=85 && marks>=82 )
         
         else if(marks<=78 && marks>=75 )
             {
-                console.log("D");
+                console.log("F");
             }
